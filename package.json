@@ -1,0 +1,14 @@
+{
+  "name": "mocha-hop-hey-nananei",
+  "version": "0.0.1",
+  "description": "Run mocha tests suits in parallel",
+  "private": true,
+  "dependencies": {
+    "debug": "2.2.0",
+    "mocha": "2.2.5",
+    "mocha-teamcity-reporter": "1.0.0"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
