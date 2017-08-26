@@ -1,4 +1,6 @@
 ## mocha-hop-hey-nananei
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/1999/mocha-parallel-example.svg)](https://greenkeeper.io/)
 Run mocha test suits in parallel
 
 ## Example
